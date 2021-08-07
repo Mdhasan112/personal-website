@@ -1,0 +1,73 @@
+.highlight-name{
+    color: orange;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    margin: 50px 110px 50px 50px;
+}
+.h2-color{
+    color: tomato;
+}
+.h2-color-2{
+    color: purple;
+}
+
+.half-width{
+    width: 30%;
+    float: left;
+    margin: 10% 10% 0% 10%;
+    
+  
+ 
+    }
+.half-width img{
+    width: 100%;
+    
+}
+
+
+.top-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+
+.middle-half-width{
+    width: 25%;
+    float: left;
+    padding: 2%;
+    margin-left: 2%;
+   border-radius: 15px;
+
+}
+.middle-half-width img{
+    width: 100%;
+}
+.divide-section{
+    clear:both;
+}
+.working-project{
+    box-shadow: 10px 10px 40px grey;
+}
+.project-h3-color{
+    color:indigo;
+}
+.project-position{
+    
+  text-align: center;
+  padding-left: 5%;
+   margin: 10%
+   
+  
+   
+}
